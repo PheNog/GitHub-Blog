@@ -16,9 +16,12 @@
     "@types/styled-components": "^5.1.26",
     "axios": "^1.2.2",
     "babel-plugin-macros": "^3.1.0",
+    "date-fns": "^2.29.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-hook-form": "^7.41.5",
+    "react-markdown": "^8.0.5",
+    "react-router-dom": "^6.7.0",
     "styled-components": "^5.3.6",
     "yup": "^0.32.11"
   },

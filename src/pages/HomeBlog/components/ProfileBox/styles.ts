@@ -63,16 +63,18 @@ export const LinkGithub = styled.a`
     color: ${props => props.theme.blue};
     justify-content: baseline;
     border: 0;
-
+    height: 19px;
     &:focus {
         box-shadow: 0 0 0 2px transparent;
-
     }
+    
     img{
-        width: 11px;
-        height: 11px;
+        width: 12px;
+        height: 12px;
         margin: 0.2rem 0.5rem;
     }
+
+
 `
 
 export const RowBoxContainer = styled.div`
@@ -100,5 +102,4 @@ export const SpanToLogo = styled.span`
     font-size: 16px;
     line-height: 160%;
     color: ${props => props.theme["base-subtitle"]};
-
 `
