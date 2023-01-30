@@ -67,8 +67,8 @@ export function PostContextProvider({ children }: PostContextProviderProps) {
     async function getPosts() {
         const postIssue = await getApi(`https://api.github.com/repos/PheNog/GitHub-Blog/issues`)
         setPosts(postIssue)
-        console.log("🚀 ~ file: PostContext.tsx:63 ~ getPosts ~ postIssue", postIssue)
     }
+    
     return (
         <PostContext.Provider value={
             {
