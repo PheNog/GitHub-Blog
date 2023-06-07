@@ -1,6 +1,7 @@
 <h1 align="center">GitHub Blog - Transforme seu repositorio em um blog. :notebook_with_decorative_cover: </h1>
 
-![image](https://github.com/PheNog/DtMoney/assets/104810112/296791fe-1fee-4de1-98dc-10a7f7729d2b)
+![image](https://github.com/PheNog/GitHub-Blog/assets/104810112/2c7071a2-a4a4-4670-9ce1-9390e4fbe325)
+
 
 ---
 
