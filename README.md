@@ -1,6 +1,7 @@
 <h1 align="center">GitHub Blog - Transforme seu repositorio em um blog. :notebook_with_decorative_cover: </h1>
 
-![image](https://github.com/PheNog/GitHub-Blog/assets/104810112/2c7071a2-a4a4-4670-9ce1-9390e4fbe325)
+![image](https://github.com/PheNog/GitHub-Blog/assets/104810112/e1968006-fb63-474e-ba9b-805be8f66f85)
+
 
 
 ---
@@ -32,8 +33,14 @@ Projeto feito para as aulas da trilha de especialização da RocketSeat Ignite, 
 #### Features
 
 - [X] Listagem do seu perfil com imagem, número de seguidores, nome e outras informações disponíveis pela API do GitHub.
-- [X] Listar e filtrar todas as issues do repositório com um pequeno resumo do conteúdo dela
+- [X] Listar e filtrar todas os posts (issues) do repositório com um pequeno resumo do conteúdo dela
 - [X] Página para exibir um post (issue) completo
+- [X] Criar uma publicação
+
+#### Como criar um post?
+- Basta criar uma issue no repositorio onde o titulo vai ser o titulo da publicação, e o corpo fica na area de texto, exemplo abaixo:
+![image](https://github.com/PheNog/GitHub-Blog/assets/104810112/fc63fcf1-8204-44bd-8aef-d527f2faf3b2)
+
 
 #### Tecnologias / Bibliotecas / Pacotes
 
